@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 Software Engineer | Cybersecurity | Python | Research Software
+🔭 Software Engineer | Cybersecurity | Python | Research Software
 
 I build software and automation tools with an interest in cybersecurity, data, research computing and dependable systems.
 
